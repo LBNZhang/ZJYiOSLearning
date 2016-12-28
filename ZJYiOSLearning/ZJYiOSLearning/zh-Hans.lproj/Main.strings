@@ -1,0 +1,408 @@
+
+/* Class = "UILabel"; text = "NSUserDefaults"; ObjectID = "0pI-1K-sSi"; */
+"0pI-1K-sSi.text" = "NSUserDefaults";
+
+/* Class = "UILabel"; text = "扫码2"; ObjectID = "0r7-Re-9tS"; */
+"0r7-Re-9tS.text" = "扫码2";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "1Rd-n1-gg5"; */
+"1Rd-n1-gg5.title" = "返回";
+
+/* Class = "UILabel"; text = "文件操作"; ObjectID = "22J-Ba-Fe5"; */
+"22J-Ba-Fe5.text" = "文件操作";
+
+/* Class = "UINavigationItem"; title = "NSUserDefaults"; ObjectID = "2IQ-k5-xdX"; */
+"2IQ-k5-xdX.title" = "NSUserDefaults";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "2Y4-8o-AsI"; */
+"2Y4-8o-AsI.normalTitle" = "保存";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "2jA-XJ-h0r"; */
+"2jA-XJ-h0r.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "2mB-qJ-Sn9"; */
+"2mB-qJ-Sn9.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "NSFileManager"; ObjectID = "3Fv-sA-Xe0"; */
+"3Fv-sA-Xe0.title" = "NSFileManager";
+
+/* Class = "UINavigationItem"; title = "block第一个页面"; ObjectID = "3VE-hf-FNk"; */
+"3VE-hf-FNk.title" = "block第一个页面";
+
+/* Class = "UINavigationItem"; title = "红包"; ObjectID = "3aw-5S-K7j"; */
+"3aw-5S-K7j.title" = "红包";
+
+/* Class = "UINavigationItem"; title = "主页面"; ObjectID = "3gm-fN-tZz"; */
+"3gm-fN-tZz.title" = "主页面";
+
+/* Class = "UINavigationItem"; title = "GCD1"; ObjectID = "40P-Pb-Ld1"; */
+"40P-Pb-Ld1.title" = "GCD1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "475-f2-xXn"; */
+"475-f2-xXn.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "4Ly-wf-ywg"; */
+"4Ly-wf-ywg.title" = "返回";
+
+/* Class = "UILabel"; text = "NSCopingNSMutableCoping"; ObjectID = "4b5-xM-YTK"; */
+"4b5-xM-YTK.text" = "NSCopingNSMutableCoping";
+
+/* Class = "UINavigationItem"; title = "NSTimer闹钟"; ObjectID = "4vv-Ik-RTl"; */
+"4vv-Ik-RTl.title" = "NSTimer闹钟";
+
+/* Class = "UINavigationItem"; title = "扫码2"; ObjectID = "5Bt-dV-qE4"; */
+"5Bt-dV-qE4.title" = "扫码2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5eh-Yj-Ujt"; */
+"5eh-Yj-Ujt.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "年龄"; ObjectID = "6Wm-mv-1pt"; */
+"6Wm-mv-1pt.placeholder" = "年龄";
+
+/* Class = "UILabel"; text = "Tuisong"; ObjectID = "7Ts-q1-i9Z"; */
+"7Ts-q1-i9Z.text" = "Tuisong";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7dg-x9-PaF"; */
+"7dg-x9-PaF.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "81A-pc-MGL"; */
+"81A-pc-MGL.normalTitle" = "登录";
+
+/* Class = "UINavigationItem"; title = "BVC"; ObjectID = "8eJ-56-kKf"; */
+"8eJ-56-kKf.title" = "BVC";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "8gm-90-QZw"; */
+"8gm-90-QZw.placeholder" = "姓名";
+
+/* Class = "UITextField"; placeholder = "学号"; ObjectID = "9Q9-k3-EqO"; */
+"9Q9-k3-EqO.placeholder" = "学号";
+
+/* Class = "UITextField"; placeholder = "年龄"; ObjectID = "9on-9s-kU1"; */
+"9on-9s-kU1.placeholder" = "年龄";
+
+/* Class = "UITextField"; placeholder = "输入内容"; ObjectID = "BQh-v3-CTT"; */
+"BQh-v3-CTT.placeholder" = "输入内容";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "BtY-kv-KbE"; */
+"BtY-kv-KbE.title" = "返回";
+
+/* Class = "UILabel"; text = "Notification传值"; ObjectID = "Cmb-t5-5E8"; */
+"Cmb-t5-5E8.text" = "Notification传值";
+
+/* Class = "UIButton"; normalTitle = "下一页"; ObjectID = "Cug-yk-fQK"; */
+"Cug-yk-fQK.normalTitle" = "下一页";
+
+/* Class = "UINavigationItem"; title = "VC2"; ObjectID = "D4R-cx-Zxm"; */
+"D4R-cx-Zxm.title" = "VC2";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "DQi-FM-mms"; */
+"DQi-FM-mms.placeholder" = "姓名";
+
+/* Class = "UILabel"; text = "GCD1"; ObjectID = "Fjj-sq-ol4"; */
+"Fjj-sq-ol4.text" = "GCD1";
+
+/* Class = "UINavigationItem"; title = "3DTouch"; ObjectID = "Go2-kv-6dy"; */
+"Go2-kv-6dy.title" = "3DTouch";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "HYh-77-9xk"; */
+"HYh-77-9xk.title" = "返回";
+
+/* Class = "UILabel"; text = "NSFileManager"; ObjectID = "IsU-r1-W97"; */
+"IsU-r1-W97.text" = "NSFileManager";
+
+/* Class = "UINavigationItem"; title = "blockTest"; ObjectID = "Isc-91-QTv"; */
+"Isc-91-QTv.title" = "blockTest";
+
+/* Class = "UINavigationItem"; title = "归档"; ObjectID = "Iur-o0-488"; */
+"Iur-o0-488.title" = "归档";
+
+/* Class = "UINavigationItem"; title = "水印"; ObjectID = "JO2-bR-LxJ"; */
+"JO2-bR-LxJ.title" = "水印";
+
+/* Class = "UILabel"; text = "DelegateTest"; ObjectID = "K0p-yr-QW9"; */
+"K0p-yr-QW9.text" = "DelegateTest";
+
+/* Class = "UINavigationItem"; title = "对象存取"; ObjectID = "KAI-4k-ahG"; */
+"KAI-4k-ahG.title" = "对象存取";
+
+/* Class = "UINavigationItem"; title = "本地化"; ObjectID = "KYQ-X1-QbG"; */
+"KYQ-X1-QbG.title" = "本地化";
+
+/* Class = "UILabel"; text = "重用cell"; ObjectID = "LZl-k8-rFQ"; */
+"LZl-k8-rFQ.text" = "重用cell";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "NDh-ul-h0d"; */
+"NDh-ul-h0d.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "Now-HL-Ytt"; */
+"Now-HL-Ytt.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "NyU-po-UX5"; */
+"NyU-po-UX5.title" = "返回";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OwU-uu-9Ml"; */
+"OwU-uu-9Ml.text" = "Label";
+
+/* Class = "UILabel"; text = "自定义TabBarController"; ObjectID = "P3W-6j-JfD"; */
+"P3W-6j-JfD.text" = "自定义TabBarController";
+
+/* Class = "UITextField"; placeholder = "学号"; ObjectID = "PDH-9N-PYk"; */
+"PDH-9N-PYk.placeholder" = "学号";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "Qw2-vi-xRy"; */
+"Qw2-vi-xRy.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "RM2-2N-Sua"; */
+"RM2-2N-Sua.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "RaN-8a-MVp"; */
+"RaN-8a-MVp.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "SHp-B3-8Z6"; */
+"SHp-B3-8Z6.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "SfN-9R-80v"; */
+"SfN-9R-80v.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "停止闹钟"; ObjectID = "StO-8f-y0z"; */
+"StO-8f-y0z.normalTitle" = "停止闹钟";
+
+/* Class = "UILabel"; text = "PList"; ObjectID = "UHv-7k-6rf"; */
+"UHv-7k-6rf.text" = "PList";
+
+/* Class = "UIButton"; normalTitle = "开始闹钟"; ObjectID = "UJQ-3r-OlC"; */
+"UJQ-3r-OlC.normalTitle" = "开始闹钟";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UgY-vo-QPp"; */
+"UgY-vo-QPp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "GCD闹钟"; ObjectID = "Uvi-HU-LPG"; */
+"Uvi-HU-LPG.text" = "GCD闹钟";
+
+/* Class = "UILabel"; text = "Main"; ObjectID = "W31-Kg-f2S"; */
+"W31-Kg-f2S.text" = "Main";
+
+/* Class = "UIButton"; normalTitle = "开始闹钟"; ObjectID = "WCw-W7-kj7"; */
+"WCw-W7-kj7.normalTitle" = "开始闹钟";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WQK-Wt-1L4"; */
+"WQK-Wt-1L4.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "Wh0-IE-h9f"; */
+"Wh0-IE-h9f.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "收藏"; ObjectID = "XUP-SN-Bau"; */
+"XUP-SN-Bau.normalTitle" = "收藏";
+
+/* Class = "UINavigationItem"; title = "链接分享"; ObjectID = "Xff-6p-gbC"; */
+"Xff-6p-gbC.title" = "链接分享";
+
+/* Class = "UINavigationItem"; title = "文件操作"; ObjectID = "Xqp-Oy-31y"; */
+"Xqp-Oy-31y.title" = "文件操作";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "YEx-cp-2bS"; */
+"YEx-cp-2bS.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "学号"; ObjectID = "YLx-Co-sn4"; */
+"YLx-Co-sn4.placeholder" = "学号";
+
+/* Class = "UINavigationItem"; title = "Notification传值"; ObjectID = "YTK-og-F2g"; */
+"YTK-og-F2g.title" = "Notification传值";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "Yre-e5-y6w"; */
+"Yre-e5-y6w.title" = "返回";
+
+/* Class = "UILabel"; text = "BlockTest"; ObjectID = "Z9s-FM-4HN"; */
+"Z9s-FM-4HN.text" = "BlockTest";
+
+/* Class = "UITextField"; placeholder = "年龄"; ObjectID = "ZAS-Zi-OUv"; */
+"ZAS-Zi-OUv.placeholder" = "年龄";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "aYu-GR-dPV"; */
+"aYu-GR-dPV.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "ayd-ne-617"; */
+"ayd-ne-617.title" = "返回";
+
+/* Class = "UILabel"; text = "block传值"; ObjectID = "bLJ-A0-tVy"; */
+"bLJ-A0-tVy.text" = "block传值";
+
+/* Class = "UINavigationItem"; title = "本地通知"; ObjectID = "bOB-fM-DWL"; */
+"bOB-fM-DWL.title" = "本地通知";
+
+/* Class = "UINavigationItem"; title = "PList"; ObjectID = "bjt-J4-CYO"; */
+"bjt-J4-CYO.title" = "PList";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "bxd-HL-xtu"; */
+"bxd-HL-xtu.placeholder" = "姓名";
+
+/* Class = "UILabel"; text = "友盟推送"; ObjectID = "cGz-PB-l3Y"; */
+"cGz-PB-l3Y.text" = "友盟推送";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "cIG-w7-RPV"; */
+"cIG-w7-RPV.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "GCD"; ObjectID = "cLA-Iy-Ehh"; */
+"cLA-Iy-Ehh.title" = "GCD";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "ccJ-d1-jYg"; */
+"ccJ-d1-jYg.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "VC1"; ObjectID = "d3T-Vf-DCc"; */
+"d3T-Vf-DCc.title" = "VC1";
+
+/* Class = "UITextField"; placeholder = "年龄"; ObjectID = "eDs-Qk-Y1m"; */
+"eDs-Qk-Y1m.placeholder" = "年龄";
+
+/* Class = "UILabel"; text = "扫码"; ObjectID = "eQR-1y-BIU"; */
+"eQR-1y-BIU.text" = "扫码";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "elH-lK-PVN"; */
+"elH-lK-PVN.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "年龄"; ObjectID = "fCE-2g-zBC"; */
+"fCE-2g-zBC.placeholder" = "年龄";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "fH9-BD-gfK"; */
+"fH9-BD-gfK.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "g4o-52-9c4"; */
+"g4o-52-9c4.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "收藏"; ObjectID = "gCT-Aj-ze5"; */
+"gCT-Aj-ze5.normalTitle" = "收藏";
+
+/* Class = "UILabel"; text = "3DTouch"; ObjectID = "gJ9-Ta-Vew"; */
+"gJ9-Ta-Vew.text" = "3DTouch";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "gdd-vJ-kqc"; */
+"gdd-vJ-kqc.title" = "Login";
+
+/* Class = "UINavigationItem"; title = "跳转页面"; ObjectID = "h85-FN-5lb"; */
+"h85-FN-5lb.title" = "跳转页面";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "hSs-El-M6C"; */
+"hSs-El-M6C.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "iJ9-XM-SkZ"; */
+"iJ9-XM-SkZ.normalTitle" = "保存";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "jU7-3k-mX9"; */
+"jU7-3k-mX9.normalTitle" = "保存";
+
+/* Class = "UIButton"; normalTitle = "跳转"; ObjectID = "k2t-WX-a7z"; */
+"k2t-WX-a7z.normalTitle" = "跳转";
+
+/* Class = "UINavigationItem"; title = "网络请求"; ObjectID = "kX4-LV-D6K"; */
+"kX4-LV-D6K.title" = "网络请求";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "la1-wZ-GXK"; */
+"la1-wZ-GXK.normalTitle" = "1";
+
+/* Class = "UINavigationItem"; title = "block第二个页面"; ObjectID = "m4J-Wu-dDi"; */
+"m4J-Wu-dDi.title" = "block第二个页面";
+
+/* Class = "UITextField"; placeholder = "学号"; ObjectID = "m8V-pe-QY5"; */
+"m8V-pe-QY5.placeholder" = "学号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mRP-fv-rEF"; */
+"mRP-fv-rEF.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "mWc-6V-XWR"; */
+"mWc-6V-XWR.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "moO-Xh-3v4"; */
+"moO-Xh-3v4.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "扫码"; ObjectID = "muy-qP-XeA"; */
+"muy-qP-XeA.title" = "扫码";
+
+/* Class = "UILabel"; text = "DTouch"; ObjectID = "myx-bR-Ju9"; */
+"myx-bR-Ju9.text" = "DTouch";
+
+/* Class = "UILabel"; text = "水印"; ObjectID = "olD-Nx-DJ5"; */
+"olD-Nx-DJ5.text" = "水印";
+
+/* Class = "UINavigationItem"; title = "DelegateTest"; ObjectID = "ouu-5t-gml"; */
+"ouu-5t-gml.title" = "DelegateTest";
+
+/* Class = "UILabel"; text = "归档"; ObjectID = "pBs-Ka-Rze"; */
+"pBs-Ka-Rze.text" = "归档";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "pIw-Ai-i08"; */
+"pIw-Ai-i08.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "pOR-FW-8zr"; */
+"pOR-FW-8zr.placeholder" = "姓名";
+
+/* Class = "UITextField"; placeholder = "姓名"; ObjectID = "pYH-Cv-0AJ"; */
+"pYH-Cv-0AJ.placeholder" = "姓名";
+
+/* Class = "UILabel"; text = "本地通知"; ObjectID = "q5l-BO-PcL"; */
+"q5l-BO-PcL.text" = "本地通知";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "qEW-no-9Nh"; */
+"qEW-no-9Nh.title" = "返回";
+
+/* Class = "UILabel"; text = "WebView加载网页"; ObjectID = "rOU-Ed-BIo"; */
+"rOU-Ed-BIo.text" = "WebView加载网页";
+
+/* Class = "UINavigationItem"; title = "友盟推送"; ObjectID = "rQ7-DD-n3N"; */
+"rQ7-DD-n3N.title" = "友盟推送";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "rVn-x5-Q4r"; */
+"rVn-x5-Q4r.title" = "返回";
+
+/* Class = "UILabel"; text = "链接分享"; ObjectID = "rYN-9u-LyB"; */
+"rYN-9u-LyB.text" = "链接分享";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "rdC-yI-XoA"; */
+"rdC-yI-XoA.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "网络请求"; ObjectID = "rf3-a4-Cv2"; */
+"rf3-a4-Cv2.text" = "网络请求";
+
+/* Class = "UILabel"; text = "NSTimer闹钟"; ObjectID = "rgo-vw-c3y"; */
+"rgo-vw-c3y.text" = "NSTimer闹钟";
+
+/* Class = "UILabel"; text = "显示内容"; ObjectID = "sN6-Xq-7LF"; */
+"sN6-Xq-7LF.text" = "显示内容";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "sY7-Es-zTm"; */
+"sY7-Es-zTm.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "学号"; ObjectID = "seG-91-dTw"; */
+"seG-91-dTw.placeholder" = "学号";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "seT-2T-xDa"; */
+"seT-2T-xDa.title" = "返回";
+
+/* Class = "UILabel"; text = "对象存取"; ObjectID = "u8k-yr-0xG"; */
+"u8k-yr-0xG.text" = "对象存取";
+
+/* Class = "UINavigationItem"; title = "重用cell"; ObjectID = "uxM-2r-qp7"; */
+"uxM-2r-qp7.title" = "重用cell";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w6G-px-Sab"; */
+"w6G-px-Sab.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "停止闹钟"; ObjectID = "wRf-mP-fKj"; */
+"wRf-mP-fKj.normalTitle" = "停止闹钟";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "wRu-a7-GJB"; */
+"wRu-a7-GJB.normalTitle" = "保存";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "yFM-Vn-1Uk"; */
+"yFM-Vn-1Uk.title" = "返回";
+
+/* Class = "UILabel"; text = "fenxaing"; ObjectID = "yc8-Y0-fON"; */
+"yc8-Y0-fON.text" = "fenxaing";
+
+/* Class = "UINavigationItem"; title = "WebViewWangYe"; ObjectID = "ypD-Kr-YAp"; */
+"ypD-Kr-YAp.title" = "WebViewWangYe";
+
+/* Class = "UILabel"; text = "Tongzhi"; ObjectID = "ze5-PM-1jB"; */
+"ze5-PM-1jB.text" = "Tongzhi";
+
+/* Class = "UILabel"; text = "红包"; ObjectID = "zpH-05-2mp"; */
+"zpH-05-2mp.text" = "红包";
