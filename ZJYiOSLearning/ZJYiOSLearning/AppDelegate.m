@@ -18,6 +18,8 @@
 
 @implementation AppDelegate {
     Boolean isStartedOrNot;
+    
+    //测试github客户端
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
