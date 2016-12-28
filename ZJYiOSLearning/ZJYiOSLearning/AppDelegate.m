@@ -20,6 +20,8 @@
     Boolean isStartedOrNot;
     
     //测试github客户端
+    //再测试一次
+    
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
